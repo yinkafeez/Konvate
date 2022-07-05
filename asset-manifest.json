@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Konvate/static/css/main.58d50f21.css",
+    "main.js": "/Konvate/static/js/main.0266d3fa.js",
+    "static/media/Student.png": "/Konvate/static/media/Student.27be08972c5fee58076c.png",
+    "index.html": "/Konvate/index.html",
+    "main.58d50f21.css.map": "/Konvate/static/css/main.58d50f21.css.map",
+    "main.0266d3fa.js.map": "/Konvate/static/js/main.0266d3fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58d50f21.css",
+    "static/js/main.0266d3fa.js"
+  ]
+}
